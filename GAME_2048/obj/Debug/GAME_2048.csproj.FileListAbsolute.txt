@@ -1,0 +1,10 @@
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\bin\Debug\GAME_2048.exe.config
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\bin\Debug\GAME_2048.exe
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\bin\Debug\GAME_2048.pdb
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.csprojResolveAssemblyReference.cache
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.Form1.resources
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.Properties.Resources.resources
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.csproj.GenerateResource.Cache
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.csproj.CoreCompileInputs.cache
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.exe
+F:\F\University\Karshenasi1400_2\GameMaking Unity\4010221\GAME_2048\GAME_2048\obj\Debug\GAME_2048.pdb
